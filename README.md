@@ -10,4 +10,4 @@ My hobbies are
 * Coding
 * Reading
 
-![This is me](C:\Users\faris\OneDrive\Desktop\HU TOPS\faris pic.jpg)
+![This is me](https://github.com/user-attachments/assets/2f1328c8-ff5c-4ef6-ae09-6997283715e4)
