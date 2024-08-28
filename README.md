@@ -10,4 +10,4 @@ My hobbies are
 * Coding
 * Reading
 
-![This is me]("C:\Users\faris\OneDrive\Desktop\HU TOPS\faris pic.jpg")
+![This is me](C:\Users\faris\OneDrive\Desktop\HU TOPS\faris pic.jpg)
