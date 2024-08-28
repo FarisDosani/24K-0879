@@ -40,5 +40,49 @@ then print"number is even"
 else print"number is odd"
 
 Q2.
+ask user to enter a number
+if number==1
+  print"Jan"
+if number==2
+  print"Feb"
+if number==3
+  print"March"
+if number==4
+  print"April"
+if number==5
+  print"May"
+if number==6
+  print"June"
+if number==7
+  print"July"
+if number==8
+  print"Aug"
+if number==9
+  print"Sep"
+if number==10
+  print"Oct"
+if number==11
+  print"Nov"
+if number==12
+  print"Dec"
 
-
+Q3.
+Ask user for num1,num2,operator
+set result to 0
+if operator=='+'
+  result=num1+num2
+  print"result"
+else if operator=='-'
+  result=num1-num2
+  print"result"
+if operator=='*'
+  result=num1*num2
+  print"result"
+else if operator=='/'
+  result=num1/num2
+  print"result"
+else if operator=='%'
+  result=num1%num2
+  print"result"
+else
+  print"Enter correct operator"
