@@ -10,4 +10,4 @@ My hobbies are
 * Coding
 * Reading
 
-![This is me]([https://1drv.ms/i/c/1bc028248ad2190c/Edb09P4EQBdKtbtQJ_i0TYwBBrGTDN64eQ2GPXXz07peHg?e=C6W2rp](https://myoctocat.com/assets/images/base-octocat.svg))
+![This is me](https://myoctocat.com/assets/images/base-octocat.svg)
